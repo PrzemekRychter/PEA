@@ -1,0 +1,472 @@
+m9.atsp                     nodes: 9
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+sredni blad (w %) dla aktualnej instancji ponizej 
+0
+__________________________________________________
+br17.atsp                     nodes: 17
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+sredni blad (w %) dla aktualnej instancji ponizej 
+0
+__________________________________________________
+ftv33.atsp                     nodes: 34
+blad: 44.0902 %
+blad: 33.8258 %
+blad: 51.7885 %
+blad: 29.4712 %
+blad: 21.2286 %
+blad: 39.4246 %
+blad: 35.6921 %
+blad: 21.6174 %
+blad: 48.1337 %
+blad: 28.8491 %
+blad: 36.8585 %
+blad: 32.9705 %
+blad: 42.6128 %
+blad: 29.4712 %
+blad: 13.5303 %
+blad: 37.014 %
+blad: 31.6485 %
+blad: 45.3344 %
+blad: 45.6454 %
+blad: 30.6376 %
+blad: 27.7605 %
+blad: 38.4914 %
+blad: 25.4277 %
+blad: 53.4992 %
+blad: 28.2271 %
+blad: 36.4697 %
+blad: 25.5832 %
+blad: 28.7714 %
+blad: 26.5941 %
+blad: 54.1213 %
+blad: 28.1493 %
+blad: 29.0047 %
+blad: 37.325 %
+blad: 41.7574 %
+blad: 36.3142 %
+blad: 16.2519 %
+blad: 32.1151 %
+blad: 25.1166 %
+blad: 51.1664 %
+blad: 27.3717 %
+blad: 17.8849 %
+blad: 35.2255 %
+blad: 35.5365 %
+blad: 40.5132 %
+blad: 53.3437 %
+blad: 36.3919 %
+blad: 29.2379 %
+blad: 32.0373 %
+blad: 36.3142 %
+blad: 16.9518 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+34.056
+__________________________________________________
+ftv38.atsp                     nodes: 39
+blad: 12.6797 %
+blad: 36.0131 %
+blad: 65.2941 %
+blad: 33.7255 %
+blad: 41.1765 %
+blad: 24.7059 %
+blad: 39.9346 %
+blad: 29.0196 %
+blad: 50.2614 %
+blad: 32.6144 %
+blad: 30.8497 %
+blad: 32.9412 %
+blad: 25.098 %
+blad: 41.6993 %
+blad: 49.4118 %
+blad: 29.281 %
+blad: 30.1961 %
+blad: 45.098 %
+blad: 43.1373 %
+blad: 19.281 %
+blad: 31.5033 %
+blad: 40.4575 %
+blad: 38.4314 %
+blad: 25.098 %
+blad: 27.9739 %
+blad: 36.4706 %
+blad: 43.268 %
+blad: 42.549 %
+blad: 39.3464 %
+blad: 36.6013 %
+blad: 24.3791 %
+blad: 41.6993 %
+blad: 52.0261 %
+blad: 50.7843 %
+blad: 53.3333 %
+blad: 47.5163 %
+blad: 34.6405 %
+blad: 30.0654 %
+blad: 48.6928 %
+blad: 51.2418 %
+blad: 34.183 %
+blad: 45.4248 %
+blad: 25.6863 %
+blad: 17.8431 %
+blad: 55.4902 %
+blad: 32.4183 %
+blad: 54.4444 %
+blad: 41.8301 %
+blad: 50.915 %
+blad: 32.4183 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+37.983
+__________________________________________________
+p43.atsp                     nodes: 43
+blad: 0.124555 %
+blad: 0.0711744 %
+blad: 0.0177936 %
+blad: 0.0355872 %
+blad: 0.302491 %
+blad: 0.088968 %
+blad: 0.0711744 %
+blad: 0.0711744 %
+blad: 0.0711744 %
+blad: 0.0177936 %
+blad: 0.0177936 %
+blad: 0.0177936 %
+blad: 0.088968 %
+blad: 0.088968 %
+blad: 0.0533808 %
+blad: 0.19573 %
+blad: 0.0355872 %
+blad: 0.0355872 %
+blad: 0.0355872 %
+blad: 0.0533808 %
+blad: 0.142349 %
+blad: 0.106762 %
+blad: 0.0533808 %
+blad: 0.0711744 %
+blad: 0.213523 %
+blad: 0.19573 %
+blad: 0.0711744 %
+blad: 0.0355872 %
+blad: 0.106762 %
+blad: 0.231317 %
+blad: 0.142349 %
+blad: 0.0355872 %
+blad: 0.0533808 %
+blad: 0.0177936 %
+blad: 0.0177936 %
+blad: 0.142349 %
+blad: 0.124555 %
+blad: 0.0533808 %
+blad: 0.0711744 %
+blad: 0.142349 %
+blad: 0.231317 %
+blad: 0.0711744 %
+blad: 0.284698 %
+blad: 0.142349 %
+blad: 0.231317 %
+koszt optymalny
+blad: 0.0355872 %
+blad: 0.0711744 %
+blad: 0.0355872 %
+blad: 0.106762 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+0.0946619
+__________________________________________________
+ft53.atsp                     nodes: 53
+blad: 65.0398 %
+blad: 58.9718 %
+blad: 65.4019 %
+blad: 61.0282 %
+blad: 42.6647 %
+blad: 54.265 %
+blad: 73.2802 %
+blad: 68.8197 %
+blad: 76.5532 %
+blad: 42.8965 %
+blad: 48.9645 %
+blad: 50.6445 %
+blad: 65.4164 %
+blad: 44.1999 %
+blad: 62.7806 %
+blad: 53.7292 %
+blad: 71.3541 %
+blad: 59.2469 %
+blad: 59.2759 %
+blad: 54.7719 %
+blad: 74.1057 %
+blad: 59.2904 %
+blad: 79.1021 %
+blad: 54.294 %
+blad: 63.6785 %
+blad: 69.4714 %
+blad: 72.8458 %
+blad: 52.9037 %
+blad: 39.9566 %
+blad: 78.9138 %
+blad: 43.2151 %
+blad: 74.9602 %
+blad: 37.8421 %
+blad: 60.8979 %
+blad: 59.2614 %
+blad: 52.9182 %
+blad: 56.5532 %
+blad: 49.0224 %
+blad: 46.937 %
+blad: 56.6256 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+59.0525
+__________________________________________________
+ftv64.atsp                     nodes: 65
+blad: 82.2186 %
+blad: 85.0462 %
+blad: 85.6444 %
+blad: 90.1577 %
+blad: 93.5835 %
+blad: 85.9706 %
+blad: 97.4986 %
+blad: 84.9375 %
+blad: 70.8537 %
+blad: 52.9092 %
+blad: 85.1006 %
+blad: 78.3578 %
+blad: 94.2904 %
+blad: 87.0582 %
+blad: 81.9467 %
+blad: 87.0582 %
+blad: 106.199 %
+blad: 66.0685 %
+blad: 63.4584 %
+blad: 89.1245 %
+blad: 80.6417 %
+blad: 76.0196 %
+blad: 59.4889 %
+blad: 76.2371 %
+blad: 68.298 %
+blad: 64.0566 %
+blad: 65.9054 %
+blad: 85.3181 %
+blad: 78.0315 %
+blad: 109.353 %
+blad: 91.0821 %
+blad: 69.8206 %
+blad: 88.472 %
+blad: 89.0158 %
+blad: 78.1947 %
+blad: 78.0315 %
+blad: 91.2452 %
+blad: 46.1664 %
+blad: 84.8287 %
+blad: 96.683 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+81.1093
+__________________________________________________
+ftv70.atsp                     nodes: 71
+blad: 82.9231 %
+blad: 96.6667 %
+blad: 81.7436 %
+blad: 100.308 %
+blad: 72 %
+blad: 94.8205 %
+blad: 85.1795 %
+blad: 81.5385 %
+blad: 98.6154 %
+blad: 77.1795 %
+blad: 59.8974 %
+blad: 86.4615 %
+blad: 87.0256 %
+blad: 92.4615 %
+blad: 76.6667 %
+blad: 88.8718 %
+blad: 76 %
+blad: 77.0256 %
+blad: 81.0769 %
+blad: 93.5385 %
+blad: 88.6667 %
+blad: 100.103 %
+blad: 67.8462 %
+blad: 83.1282 %
+blad: 91.7949 %
+blad: 79.8974 %
+blad: 90.0513 %
+blad: 103.538 %
+blad: 72.6667 %
+blad: 95.5385 %
+blad: 84.8205 %
+blad: 115.128 %
+blad: 103.897 %
+blad: 106.821 %
+blad: 94.2564 %
+blad: 81.1795 %
+blad: 93.2821 %
+blad: 76.7179 %
+blad: 89.8974 %
+blad: 108.615 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+87.9462
+__________________________________________________
+ftv170.atsp                     nodes: 171
+blad: 181.633 %
+blad: 186.788 %
+blad: 198.693 %
+blad: 202.069 %
+blad: 206.606 %
+blad: 198.657 %
+blad: 211.579 %
+blad: 231.47 %
+blad: 180.181 %
+blad: 181.089 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+197.877
+__________________________________________________
+rbg323.atsp                     nodes: 323
+blad: 150.754 %
+blad: 143.137 %
+blad: 152.715 %
+blad: 147.587 %
+blad: 150.905 %
+blad: 152.338 %
+blad: 161.011 %
+blad: 147.059 %
+blad: 168.401 %
+blad: 149.774 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+152.368
+__________________________________________________
+rbg358.atsp                     nodes: 358
+blad: 207.137 %
+blad: 215.821 %
+blad: 218.143 %
+blad: 209.372 %
+blad: 204.557 %
+blad: 213.242 %
+blad: 217.025 %
+blad: 208.512 %
+blad: 210.146 %
+blad: 202.58 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+210.653
+__________________________________________________
+rbg403.atsp                     nodes: 403
+blad: 82.1095 %
+blad: 80.1623 %
+blad: 77.4037 %
+blad: 81.2982 %
+blad: 79.8783 %
+blad: 83.5294 %
+blad: 81.0142 %
+blad: 87.5862 %
+blad: 79.1075 %
+blad: 81.6227 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+81.3712
+__________________________________________________
+rbg443.atsp                     nodes: 443
+blad: 85.1471 %
+blad: 80.6618 %
+blad: 78.4191 %
+blad: 80.9926 %
+blad: 78.5662 %
+blad: 80.1838 %
+blad: 76.4706 %
+blad: 79.1912 %
+blad: 75.5515 %
+blad: 79.0441 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+79.4228
+__________________________________________________

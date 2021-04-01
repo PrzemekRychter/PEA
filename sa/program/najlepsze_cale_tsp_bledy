@@ -1,0 +1,871 @@
+gr17.tsp                     nodes: 17
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+blad: 0.239808 %
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+koszt optymalny
+blad: 0.239808 %
+koszt optymalny
+blad: 0.239808 %
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 0.239808 %
+blad: 0.239808 %
+blad: 0.239808 %
+koszt optymalny
+sredni blad (w %) dla aktualnej instancji ponizej 
+0.134293
+__________________________________________________
+gr21.tsp                     nodes: 21
+blad: 0.0738825 %
+blad: 4.0266 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 3.54636 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 3.47248 %
+koszt optymalny
+koszt optymalny
+blad: 3.54636 %
+blad: 3.47248 %
+koszt optymalny
+blad: 3.54636 %
+blad: 3.54636 %
+blad: 1.95789 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 3.54636 %
+blad: 3.54636 %
+koszt optymalny
+blad: 3.47248 %
+koszt optymalny
+koszt optymalny
+blad: 3.54636 %
+blad: 4.0266 %
+blad: 3.47248 %
+blad: 4.0266 %
+koszt optymalny
+blad: 4.0266 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 2.77059 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 3.54636 %
+koszt optymalny
+koszt optymalny
+blad: 3.25083 %
+koszt optymalny
+blad: 3.47248 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.39786
+__________________________________________________
+bayg29.tsp                     nodes: 29
+blad: 3.78882 %
+blad: 1.67702 %
+blad: 2.6087 %
+blad: 2.23602 %
+blad: 2.17391 %
+blad: 1.80124 %
+blad: 1.86335 %
+blad: 1.11801 %
+blad: 0.745342 %
+blad: 0.621118 %
+blad: 0.869565 %
+blad: 2.23602 %
+blad: 0.621118 %
+blad: 2.04969 %
+blad: 2.36025 %
+blad: 1.49068 %
+blad: 1.5528 %
+blad: 2.04969 %
+blad: 0.745342 %
+blad: 0.745342 %
+blad: 0.931677 %
+blad: 0.621118 %
+blad: 0.993789 %
+blad: 1.98758 %
+blad: 2.42236 %
+blad: 1.11801 %
+blad: 0.745342 %
+blad: 1.42857 %
+blad: 2.04969 %
+blad: 2.04969 %
+blad: 2.17391 %
+blad: 1.67702 %
+blad: 1.80124 %
+blad: 2.85714 %
+blad: 3.1677 %
+blad: 2.04969 %
+blad: 2.42236 %
+blad: 0.745342 %
+blad: 1.5528 %
+blad: 1.5528 %
+blad: 0.310559 %
+blad: 2.04969 %
+blad: 0.993789 %
+koszt optymalny
+blad: 0.993789 %
+blad: 2.36025 %
+blad: 2.54658 %
+blad: 2.04969 %
+blad: 2.04969 %
+blad: 3.29193 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.68696
+__________________________________________________
+dantzig42.tsp                     nodes: 42
+blad: 1.43062 %
+koszt optymalny
+blad: 2.86123 %
+blad: 0.715308 %
+blad: 2.00286 %
+koszt optymalny
+blad: 0.715308 %
+koszt optymalny
+koszt optymalny
+blad: 4.00572 %
+blad: 2.43205 %
+blad: 0.858369 %
+blad: 1.43062 %
+blad: 0.715308 %
+blad: 1.43062 %
+blad: 6.43777 %
+blad: 0.858369 %
+blad: 0.286123 %
+blad: 4.00572 %
+blad: 2.71817 %
+blad: 0.715308 %
+koszt optymalny
+blad: 0.715308 %
+blad: 1.8598 %
+blad: 0.715308 %
+blad: 0.286123 %
+blad: 0.715308 %
+blad: 0.715308 %
+blad: 1.14449 %
+blad: 2.00286 %
+blad: 1.00143 %
+blad: 0.715308 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 2.00286 %
+blad: 6.86695 %
+blad: 2.57511 %
+blad: 0.286123 %
+blad: 3.43348 %
+blad: 1.14449 %
+blad: 3.43348 %
+blad: 0.715308 %
+blad: 0.858369 %
+blad: 0.286123 %
+blad: 1.43062 %
+blad: 1.8598 %
+blad: 2.28898 %
+blad: 2.86123 %
+blad: 2.71817 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.52504
+__________________________________________________
+berlin52.tsp                     nodes: 52
+koszt optymalny
+blad: 2.43967 %
+blad: 2.29382 %
+blad: 1.84301 %
+koszt optymalny
+blad: 2.17449 %
+blad: 6.21851 %
+blad: 6.4174 %
+koszt optymalny
+blad: 5.84726 %
+blad: 4.09706 %
+blad: 3.38107 %
+blad: 6.6428 %
+blad: 7.09361 %
+blad: 3.27499 %
+koszt optymalny
+blad: 3.38107 %
+blad: 3.08937 %
+koszt optymalny
+blad: 5.52904 %
+blad: 2.73137 %
+blad: 1.12702 %
+blad: 7.39857 %
+blad: 0.212145 %
+blad: 4.0175 %
+blad: 4.91912 %
+blad: 2.81093 %
+blad: 2.8507 %
+koszt optymalny
+koszt optymalny
+blad: 3.31477 %
+blad: 2.82418 %
+blad: 7.88915 %
+blad: 3.55343 %
+blad: 2.51923 %
+blad: 7.31901 %
+blad: 1.12702 %
+blad: 0.901618 %
+koszt optymalny
+blad: 5.95333 %
+blad: 2.45293 %
+blad: 2.54574 %
+blad: 4.9589 %
+blad: 6.28481 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 2.74463 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+2.88359
+__________________________________________________
+brazil58.tsp                     nodes: 58
+blad: 1.19315 %
+koszt optymalny
+koszt optymalny
+blad: 1.37822 %
+koszt optymalny
+blad: 0.441032 %
+koszt optymalny
+blad: 0.441032 %
+blad: 1.44123 %
+blad: 1.46092 %
+blad: 1.78775 %
+blad: 0.315023 %
+koszt optymalny
+blad: 0.97657 %
+blad: 0.342587 %
+blad: 0.992321 %
+blad: 1.76806 %
+koszt optymalny
+koszt optymalny
+blad: 1.40579 %
+koszt optymalny
+koszt optymalny
+blad: 0.65761 %
+blad: 1.8862 %
+blad: 1.51605 %
+koszt optymalny
+blad: 0.315023 %
+blad: 0.441032 %
+blad: 1.17346 %
+blad: 1.65387 %
+koszt optymalny
+blad: 1.76806 %
+blad: 1.4176 %
+blad: 1.37822 %
+blad: 0.893877 %
+blad: 0.992321 %
+blad: 1.61449 %
+blad: 5.1585 %
+koszt optymalny
+blad: 1.09077 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+0.897519
+__________________________________________________
+st70.tsp                     nodes: 70
+blad: 2.37037 %
+blad: 2.96296 %
+blad: 2.37037 %
+blad: 0.148148 %
+blad: 3.7037 %
+blad: 2.66667 %
+blad: 3.11111 %
+blad: 1.33333 %
+blad: 5.33333 %
+blad: 1.62963 %
+blad: 2.37037 %
+blad: 2.81481 %
+blad: 4.88889 %
+blad: 0.888889 %
+blad: 1.03704 %
+blad: 2.51852 %
+blad: 2.96296 %
+blad: 3.40741 %
+blad: 0.740741 %
+blad: 3.11111 %
+blad: 1.18519 %
+blad: 2.81481 %
+blad: 3.55556 %
+blad: 2.07407 %
+blad: 2.96296 %
+blad: 1.77778 %
+blad: 3.11111 %
+blad: 6.07407 %
+blad: 1.48148 %
+blad: 5.77778 %
+blad: 0.444444 %
+blad: 1.92593 %
+blad: 5.33333 %
+blad: 3.40741 %
+blad: 5.03704 %
+blad: 3.40741 %
+blad: 0.888889 %
+blad: 1.03704 %
+blad: 1.62963 %
+blad: 4.14815 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+2.71111
+__________________________________________________
+eil76.tsp                     nodes: 76
+blad: 2.97398 %
+blad: 2.60223 %
+blad: 4.08922 %
+blad: 2.60223 %
+blad: 4.27509 %
+blad: 4.64684 %
+blad: 6.50558 %
+blad: 4.46097 %
+blad: 3.15985 %
+blad: 4.83271 %
+blad: 4.27509 %
+blad: 5.01859 %
+blad: 3.71747 %
+blad: 2.97398 %
+blad: 2.7881 %
+blad: 5.20446 %
+blad: 4.46097 %
+blad: 3.71747 %
+blad: 2.23048 %
+blad: 2.60223 %
+blad: 5.76208 %
+blad: 5.76208 %
+blad: 6.3197 %
+blad: 5.39033 %
+blad: 4.46097 %
+blad: 5.01859 %
+blad: 3.5316 %
+blad: 2.97398 %
+blad: 5.94796 %
+blad: 5.01859 %
+blad: 5.01859 %
+blad: 4.27509 %
+blad: 1.48699 %
+blad: 2.7881 %
+blad: 3.15985 %
+blad: 5.39033 %
+blad: 4.64684 %
+blad: 3.15985 %
+blad: 3.5316 %
+blad: 6.87732 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+4.19145
+__________________________________________________
+gr96.tsp                     nodes: 96
+blad: 4.22576 %
+blad: 4.41051 %
+blad: 4.69126 %
+blad: 3.59905 %
+blad: 2.37461 %
+blad: 0.650256 %
+blad: 3.29113 %
+blad: 2.00692 %
+blad: 2.51046 %
+blad: 1.11395 %
+blad: 3.76569 %
+blad: 1.51787 %
+blad: 3.53384 %
+blad: 1.63741 %
+blad: 2.99589 %
+blad: 3.46139 %
+blad: 1.11938 %
+blad: 3.09551 %
+blad: 0.324222 %
+blad: 1.81854 %
+blad: 2.34563 %
+blad: 3.206 %
+blad: 2.45793 %
+blad: 1.78051 %
+blad: 1.12119 %
+blad: 1.77145 %
+blad: 1.88556 %
+blad: 2.4688 %
+blad: 1.99243 %
+blad: 2.74774 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+2.46403
+__________________________________________________
+kroA100.tsp                     nodes: 100
+blad: 2.20374 %
+blad: 1.28277 %
+blad: 1.24048 %
+blad: 2.25543 %
+blad: 4.35109 %
+blad: 3.70736 %
+blad: 6.61122 %
+blad: 2.03928 %
+blad: 1.03374 %
+blad: 1.14651 %
+blad: 0.765905 %
+blad: 2.20374 %
+blad: 0.939761 %
+blad: 2.04868 %
+blad: 0.756508 %
+blad: 3.56639 %
+blad: 1.26398 %
+blad: 1.21229 %
+blad: 1.55061 %
+blad: 4.00808 %
+blad: 2.34001 %
+blad: 2.69242 %
+blad: 3.88121 %
+blad: 1.70097 %
+blad: 1.48012 %
+blad: 1.9829 %
+blad: 2.08627 %
+blad: 2.56555 %
+blad: 3.72145 %
+blad: 0.803496 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+2.24807
+__________________________________________________
+pr107.tsp                     nodes: 107
+blad: 1.12182 %
+blad: 0.618468 %
+blad: 0.932217 %
+blad: 0.404036 %
+blad: 2.70636 %
+blad: 0.288919 %
+blad: 0.528181 %
+blad: 1.31594 %
+blad: 0.659098 %
+blad: 1.15342 %
+blad: 0.934474 %
+blad: 0.8171 %
+blad: 0.643297 %
+blad: 0.948017 %
+blad: 1.59809 %
+blad: 1.61389 %
+blad: 1.23919 %
+blad: 1.74029 %
+blad: 1.56649 %
+blad: 0.988646 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.0909
+__________________________________________________
+gr120.tsp                     nodes: 120
+blad: 2.8522 %
+blad: 2.95304 %
+blad: 3.86056 %
+blad: 4.85451 %
+blad: 3.63008 %
+blad: 5.05618 %
+blad: 1.95909 %
+blad: 2.98185 %
+blad: 5.50274 %
+blad: 3.52924 %
+blad: 3.7021 %
+blad: 4.33593 %
+blad: 6.92884 %
+blad: 5.01296 %
+blad: 4.89772 %
+blad: 3.94699 %
+blad: 4.11985 %
+blad: 2.69375 %
+blad: 2.49208 %
+blad: 1.64218 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.84759
+__________________________________________________
+bier127.tsp                     nodes: 127
+blad: 4.82576 %
+blad: 2.59972 %
+blad: 3.38513 %
+blad: 4.12489 %
+blad: 1.74921 %
+blad: 3.08415 %
+blad: 2.46529 %
+blad: 3.30989 %
+blad: 1.65706 %
+blad: 2.43063 %
+blad: 2.57858 %
+blad: 1.03482 %
+blad: 2.37145 %
+blad: 3.26339 %
+blad: 1.96141 %
+blad: 3.22027 %
+blad: 1.37214 %
+blad: 2.03412 %
+blad: 1.1946 %
+blad: 2.85758 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+2.576
+__________________________________________________
+pr136.tsp                     nodes: 136
+blad: 3.35118 %
+blad: 3.08767 %
+blad: 2.93783 %
+blad: 3.17551 %
+blad: 4.08279 %
+blad: 2.04088 %
+blad: 3.34291 %
+blad: 5.39516 %
+blad: 1.53143 %
+blad: 2.64023 %
+blad: 2.9895 %
+blad: 3.77899 %
+blad: 0.88972 %
+blad: 3.85339 %
+blad: 3.30364 %
+blad: 6.31691 %
+blad: 4.81338 %
+blad: 7.35957 %
+blad: 5.38482 %
+blad: 2.25788 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.62667
+__________________________________________________
+pr144.tsp                     nodes: 144
+blad: 0.090541 %
+blad: 0.714078 %
+blad: 1.28637 %
+blad: 2.44119 %
+blad: 8.04107 %
+blad: 0.136666 %
+blad: 0.761911 %
+blad: 0.790953 %
+blad: 0.794369 %
+blad: 0.476622 %
+blad: 1.43328 %
+blad: 0.119582 %
+blad: 0.893452 %
+blad: 1.44182 %
+blad: 1.17533 %
+blad: 0.148624 %
+blad: 0.476622 %
+blad: 1.31541 %
+blad: 2.99298 %
+blad: 1.30857 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.34197
+__________________________________________________
+kroB150.tsp                     nodes: 150
+blad: 3.71221 %
+blad: 1.83314 %
+blad: 1.8982 %
+blad: 1.92116 %
+blad: 5.47646 %
+blad: 0.998852 %
+blad: 2.31535 %
+blad: 4.39342 %
+blad: 5.0708 %
+blad: 4.69575 %
+blad: 3.06162 %
+blad: 2.23881 %
+blad: 5.65633 %
+blad: 4.40873 %
+blad: 3.8806 %
+blad: 1.90203 %
+blad: 4.64217 %
+blad: 1.67241 %
+blad: 4.53502 %
+blad: 4.1217 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.42174
+__________________________________________________
+pr152.tsp                     nodes: 152
+blad: 3.00345 %
+blad: 1.22961 %
+blad: 1.98556 %
+blad: 1.0586 %
+blad: 4.47192 %
+blad: 2.97902 %
+blad: 2.90166 %
+blad: 1.20246 %
+blad: 1.74941 %
+blad: 1.38433 %
+blad: 1.25539 %
+blad: 1.23097 %
+blad: 1.23639 %
+blad: 1.26625 %
+blad: 2.51079 %
+blad: 1.68426 %
+blad: 2.02628 %
+blad: 1.68019 %
+blad: 1.69105 %
+blad: 1.02332 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.87855
+__________________________________________________
+brg180.tsp                     nodes: 180
+koszt optymalny
+blad: 1.53846 %
+blad: 1.53846 %
+blad: 0.512821 %
+blad: 1.02564 %
+blad: 0.512821 %
+blad: 1.02564 %
+blad: 1.02564 %
+koszt optymalny
+blad: 1.02564 %
+blad: 0.512821 %
+blad: 0.512821 %
+blad: 0.512821 %
+koszt optymalny
+blad: 1.02564 %
+blad: 0.512821 %
+blad: 1.02564 %
+blad: 2.5641 %
+blad: 0.512821 %
+koszt optymalny
+sredni blad (w %) dla aktualnej instancji ponizej 
+0.769231
+__________________________________________________
+rat195.tsp                     nodes: 195
+blad: 3.48687 %
+blad: 6.88765 %
+blad: 4.26173 %
+blad: 5.46707 %
+blad: 6.19888 %
+blad: 6.7585 %
+blad: 4.7783 %
+blad: 5.46707 %
+blad: 7.92079 %
+blad: 4.00344 %
+blad: 4.7783 %
+blad: 4.9505 %
+blad: 6.19888 %
+blad: 5.12269 %
+blad: 4.9505 %
+blad: 5.07964 %
+blad: 7.14593 %
+blad: 7.44727 %
+blad: 6.45717 %
+blad: 6.8446 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+5.71029
+__________________________________________________
+kroB200.tsp                     nodes: 200
+blad: 2.81618 %
+blad: 3.48541 %
+blad: 4.192 %
+blad: 3.29517 %
+blad: 4.03234 %
+blad: 7.4634 %
+blad: 3.94062 %
+blad: 1.84462 %
+blad: 3.36651 %
+blad: 3.09814 %
+blad: 1.9771 %
+blad: 6.38312 %
+blad: 1.73591 %
+blad: 3.50239 %
+blad: 2.92489 %
+blad: 3.64507 %
+blad: 4.81367 %
+blad: 6.25064 %
+blad: 2.9147 %
+blad: 5.23151 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.84567
+__________________________________________________
+gr202.tsp                     nodes: 202
+blad: 3.01046 %
+blad: 2.03685 %
+blad: 3.38894 %
+blad: 1.74054 %
+blad: 1.29731 %
+blad: 3.86703 %
+blad: 2.14392 %
+blad: 2.69173 %
+blad: 1.91484 %
+blad: 3.85956 %
+blad: 1.03337 %
+blad: 2.46265 %
+blad: 2.59213 %
+blad: 0.704681 %
+blad: 2.55229 %
+blad: 3.75 %
+blad: 2.44522 %
+blad: 1.68078 %
+blad: 1.82769 %
+blad: 2.80876 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+2.39044
+__________________________________________________
+gr229.tsp                     nodes: 229
+blad: 3.17454 %
+blad: 6.52219 %
+blad: 5.09205 %
+blad: 3.30307 %
+blad: 5.62919 %
+blad: 4.03783 %
+blad: 5.70051 %
+blad: 3.4524 %
+blad: 1.70205 %
+blad: 3.84913 %
+blad: 3.48955 %
+blad: 3.21466 %
+blad: 3.66488 %
+blad: 3.56755 %
+blad: 4.4509 %
+blad: 4.13144 %
+blad: 3.00961 %
+blad: 1.68868 %
+blad: 2.39075 %
+blad: 4.37215 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.82216
+__________________________________________________
+gil262.tsp                     nodes: 262
+blad: 4.96215 %
+blad: 2.27082 %
+blad: 6.22372 %
+blad: 4.45753 %
+blad: 2.10261 %
+blad: 3.70059 %
+blad: 5.92935 %
+blad: 5.17241 %
+blad: 4.03701 %
+blad: 3.53238 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+4.23886
+__________________________________________________
+a280.tsp                     nodes: 280
+blad: 4.26522 %
+blad: 2.79178 %
+blad: 3.17953 %
+blad: 8.91819 %
+blad: 5.23459 %
+blad: 5.89376 %
+blad: 7.40597 %
+blad: 3.25708 %
+blad: 4.03257 %
+blad: 6.82435 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+5.1803
+__________________________________________________
+pr299.tsp                     nodes: 299
+blad: 5.27277 %
+blad: 3.53801 %
+blad: 2.94038 %
+blad: 2.40916 %
+blad: 3.52348 %
+blad: 3.25787 %
+blad: 2.06055 %
+blad: 2.86983 %
+blad: 5.12751 %
+blad: 4.78098 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.57805
+__________________________________________________
+linhp318.tsp                     nodes: 318
+blad: 6.10473 %
+blad: 5.40331 %
+blad: 3.44177 %
+blad: 6.59814 %
+blad: 4.48906 %
+blad: 5.66937 %
+blad: 5.80239 %
+blad: 5.63551 %
+blad: 4.50599 %
+blad: 4.89297 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+5.25432
+__________________________________________________
+rd400.tsp                     nodes: 400
+blad: 3.59924 %
+blad: 4.19475 %
+blad: 4.88842 %
+blad: 4.84916 %
+blad: 4.67247 %
+blad: 5.75879 %
+blad: 4.62012 %
+blad: 4.95386 %
+blad: 3.90681 %
+blad: 5.54938 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+4.6993
+__________________________________________________
+fl417.tsp                     nodes: 417
+blad: 2.25107 %
+blad: 1.11289 %
+blad: 1.73678 %
+blad: 1.56816 %
+blad: 1.51758 %
+blad: 1.41641 %
+blad: 0.76722 %
+blad: 1.43327 %
+blad: 0.691341 %
+blad: 0.379395 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+1.28741
+__________________________________________________
+SREDNIE BLEDY w % DLA KOLEJNO WSZYSTKICH INSTACJI Z conf.ini
+0.134293
+1.39786
+1.68696
+1.52504
+2.88359
+0.897519
+2.71111
+4.19145
+2.46403
+2.24807
+1.0909
+3.84759
+2.576
+3.62667
+1.34197
+3.42174
+1.87855
+0.769231
+5.71029
+3.84567
+2.39044
+3.82216
+4.23886
+5.1803
+3.57805
+5.25432
+4.6993
+1.28741

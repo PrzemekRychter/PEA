@@ -1,0 +1,241 @@
+m9.atsp                     nodes: 9
+koszt optymalny
+blad: 13.0233 %
+koszt optymalny
+koszt optymalny
+koszt optymalny
+blad: 16.2791 %
+blad: 15.3488 %
+blad: 11.6279 %
+koszt optymalny
+koszt optymalny
+sredni blad (w %) dla aktualnej instancji ponizej 
+5.62791
+__________________________________________________
+br17.atsp                     nodes: 17
+blad: 35.8974 %
+koszt optymalny
+blad: 7.69231 %
+koszt optymalny
+blad: 12.8205 %
+koszt optymalny
+blad: 20.5128 %
+koszt optymalny
+koszt optymalny
+blad: 7.69231 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+8.46154
+__________________________________________________
+ftv33.atsp                     nodes: 34
+blad: 31.5708 %
+blad: 36.5474 %
+blad: 31.804 %
+blad: 36.0809 %
+blad: 40.2799 %
+blad: 37.8694 %
+blad: 40.6687 %
+blad: 39.5801 %
+blad: 36.7807 %
+blad: 34.2146 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+36.5397
+__________________________________________________
+ftv38.atsp                     nodes: 39
+blad: 33.2026 %
+blad: 29.7386 %
+blad: 19.9346 %
+blad: 27.451 %
+blad: 30.5229 %
+blad: 32.0915 %
+blad: 29.6732 %
+blad: 27.1242 %
+blad: 31.5686 %
+blad: 33.3987 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+29.4706
+__________________________________________________
+p43.atsp                     nodes: 43
+blad: 0.871886 %
+blad: 0.213523 %
+blad: 1.60142 %
+blad: 0.533808 %
+blad: 0.587189 %
+blad: 0.711744 %
+blad: 0.747331 %
+blad: 1.51246 %
+blad: 0.907473 %
+blad: 0.604982 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+0.829181
+__________________________________________________
+ft53.atsp                     nodes: 53
+blad: 32.5272 %
+blad: 54.3519 %
+blad: 43.3454 %
+blad: 38.2042 %
+blad: 39.1166 %
+blad: 47.0818 %
+blad: 53.5264 %
+blad: 44.3302 %
+blad: 40.3186 %
+blad: 45.4164 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+43.8219
+__________________________________________________
+ftv64.atsp                     nodes: 65
+blad: 38.3904 %
+blad: 48.2871 %
+blad: 48.3959 %
+blad: 46.3295 %
+blad: 63.839 %
+blad: 35.9434 %
+blad: 51.2779 %
+blad: 43.5019 %
+blad: 48.5046 %
+blad: 46.1664 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+47.0636
+__________________________________________________
+ftv70.atsp                     nodes: 71
+blad: 49.3846 %
+blad: 55.8462 %
+blad: 43.4872 %
+blad: 50.6667 %
+blad: 55.9487 %
+blad: 48.7692 %
+blad: 48 %
+blad: 52.8718 %
+blad: 48.7692 %
+blad: 42.8718 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+49.6615
+__________________________________________________
+gr17.tsp                     nodes: 17
+blad: 20.4796 %
+blad: 2.54197 %
+blad: 18.4652 %
+blad: 0.863309 %
+blad: 0.863309 %
+blad: 10.0719 %
+blad: 5.9952 %
+blad: 7.38609 %
+blad: 4.17266 %
+blad: 10.7434 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+8.15827
+__________________________________________________
+gr21.tsp                     nodes: 21
+blad: 24.5659 %
+blad: 25.3417 %
+blad: 20.9088 %
+blad: 22.0539 %
+blad: 10.048 %
+blad: 16.1803 %
+blad: 19.505 %
+blad: 15.0351 %
+blad: 8.38567 %
+koszt optymalny
+sredni blad (w %) dla aktualnej instancji ponizej 
+16.2024
+__________________________________________________
+bayg29.tsp                     nodes: 29
+blad: 12.6087 %
+blad: 25.1553 %
+blad: 13.1056 %
+blad: 21.3043 %
+blad: 23.8509 %
+blad: 15.9627 %
+blad: 40.6832 %
+blad: 19.9379 %
+blad: 28.2609 %
+blad: 23.354 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+22.4224
+__________________________________________________
+dantzig42.tsp                     nodes: 42
+blad: 32.1888 %
+blad: 21.7454 %
+blad: 40.0572 %
+blad: 35.7654 %
+blad: 31.6166 %
+blad: 38.6266 %
+blad: 35.6223 %
+blad: 34.1917 %
+blad: 44.3491 %
+blad: 26.4664 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+34.0629
+__________________________________________________
+berlin52.tsp                     nodes: 52
+blad: 28.6794 %
+blad: 28.3744 %
+blad: 35.4018 %
+blad: 38.4911 %
+blad: 41.9517 %
+blad: 26.1337 %
+blad: 30.8671 %
+blad: 29.2893 %
+blad: 30.1379 %
+blad: 34.699 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+32.4025
+__________________________________________________
+brazil58.tsp                     nodes: 58
+blad: 25.8673 %
+blad: 35.7472 %
+blad: 31.7897 %
+blad: 37.8106 %
+blad: 47.3558 %
+blad: 22.8667 %
+blad: 48.0291 %
+blad: 24.9537 %
+blad: 24.4064 %
+blad: 52.849 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+35.1676
+__________________________________________________
+st70.tsp                     nodes: 70
+blad: 40.7407 %
+blad: 46.3704 %
+blad: 29.3333 %
+blad: 38.2222 %
+blad: 42.963 %
+blad: 49.7778 %
+blad: 44.2963 %
+blad: 50.8148 %
+blad: 53.4815 %
+blad: 41.4815 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+43.7481
+__________________________________________________
+eil76.tsp                     nodes: 76
+blad: 26.9517 %
+blad: 28.4387 %
+blad: 29.9257 %
+blad: 40.3346 %
+blad: 33.4572 %
+blad: 32.7138 %
+blad: 32.8996 %
+blad: 32.8996 %
+blad: 25.4647 %
+blad: 26.7658 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+30.9851
+__________________________________________________
+SREDNIE BLEDY w % DLA KOLEJNO WSZYSTKICH INSTACJI Z conf.ini
+5.62791
+8.46154
+36.5397
+29.4706
+0.829181
+43.8219
+47.0636
+49.6615
+8.15827
+16.2024
+22.4224
+34.0629
+32.4025
+35.1676
+43.7481
+30.9851

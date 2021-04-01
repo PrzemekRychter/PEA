@@ -1,0 +1,27 @@
+pcb442.tsp                     nodes: 442
+blad: 3.83828 %
+blad: 4.09626 %
+blad: 5.05534 %
+blad: 4.23609 %
+blad: 4.94112 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+4.43342
+__________________________________________________
+gr431.tsp                     nodes: 431
+blad: 3.21852 %
+blad: 3.76049 %
+blad: 3.6759 %
+blad: 3.40054 %
+blad: 4.54455 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+3.72
+__________________________________________________
+pr439.tsp                     nodes: 439
+blad: 6.42809 %
+blad: 3.97791 %
+blad: 4.00683 %
+blad: 4.68769 %
+blad: 5.75282 %
+sredni blad (w %) dla aktualnej instancji ponizej 
+4.97067
+__________________________________________________
